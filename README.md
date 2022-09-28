@@ -1,2 +1,2 @@
 # writeups
-ctf stuff
+DUCTF (https://github.com/SoupSeeker/writeups/blob/main/Babypwn%20-%20DUCTF%20-%20Pwn.pdf)
